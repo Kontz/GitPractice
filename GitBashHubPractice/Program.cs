@@ -6,7 +6,7 @@ namespace GitBashHubPractice
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            Console.WriteLine("Practice for Git Hub and Git Bash. Maybe.");
         }
     }
 }
